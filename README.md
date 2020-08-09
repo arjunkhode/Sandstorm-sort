@@ -2,6 +2,8 @@
 Processing program, sandstorm variant of pixel sorting
 /*
 
+Made for Processing 2
+
    Sandstorm Pixel Sort by AKTracer
    based on ASDF Pixel Sort by Kim Asendorf
    Uses random start and end limits in each row wise or column wise traversal, craeting a sandstorm effect
